@@ -124,9 +124,9 @@ public class StringArrayUtils {
      */ // TODO
     public static String[] removeValue(String[] array, String valueToRemove) {
 
+                for(int i = 0 )
 
-
-        return null;
+        return array.length valueToRemove;
     }
 
     /**
